@@ -1,29 +1,57 @@
 # 💫 About Me:
+## 💫 About Me
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Kanchan+Anamika+Maheshwari+👋;Computer+Science+Engineering+Student+🎓;Aspiring+Data+Scientist+📊;Machine+Learning+%26+AI+Enthusiast+🤖;Building+Projects+%7C+Learning+New+Things+🚀;Turning+Data+Into+Meaningful+Insights+✨" />
+</p>
 
-Hi there! 👋 I'm **Kanchan Anamika Maheshwari**, a passionate **Computer Science Engineering (CSE) student** with a strong interest in **Data Science, Machine Learning, Deep Learning, and Artificial Intelligence**.
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🔹 I love transforming raw data into meaningful insights and building intelligent solutions that solve real-world problems.
+### 👩‍💻 Who Am I?
 
-🔹 Currently exploring and working on:
-- 📊 Data Analysis & Visualization
-- 🤖 Machine Learning & Deep Learning
-- 🧠 Natural Language Processing (NLP)
-- 🐍 Python Programming
-- 🗄️ SQL & Database Management
-- 🌐 Flask & AI-powered Web Applications
+🎓 I'm **Kanchan Anamika Maheshwari**, a passionate **Computer Science Engineering student** with a strong interest in **Data Science, Machine Learning, Deep Learning, and Artificial Intelligence**.
 
-🔹 I enjoy learning by building projects and applying theoretical concepts to practical problems. Every project helps me strengthen my analytical thinking, problem-solving abilities, and technical expertise.
+📊 I enjoy exploring data, uncovering patterns, and transforming complex information into meaningful insights that drive smarter decisions.
 
-🎯 My current goals:
-- Build impactful Data Science & AI projects
-- Gain hands-on industry experience through internships
-- Strengthen my skills in Machine Learning and Deep Learning
-- Contribute to open-source and collaborative projects
+🚀 My journey revolves around continuous learning, hands-on project development, and building practical solutions to real-world problems.
 
-📚 I believe that consistency, curiosity, and continuous learning are the keys to growth in technology.
+### 🌱 Currently Learning
 
-✨ *Turning data into insights and ideas into intelligent solutions.*
+🔹 Data Science & Analytics  
+🔹 Machine Learning & Deep Learning  
+🔹 Natural Language Processing (NLP)  
+🔹 Python Programming  
+🔹 SQL & Database Management  
+🔹 Flask & AI-Powered Applications  
+
+### 💡 What Drives Me?
+
+✨ Solving real-world problems through technology
+
+✨ Building projects that strengthen practical skills
+
+✨ Learning new concepts and applying them creatively
+
+✨ Growing every day through consistency and curiosity
+
+### 🎯 Current Goals
+
+🚀 Build impactful Data Science & AI projects
+
+📈 Strengthen my Machine Learning and Deep Learning expertise
+
+💼 Gain valuable internship experience
+
+🌍 Contribute to meaningful and innovative solutions
+
+### ⚡ Fun Fact
+
+I believe every dataset tells a story, and every project is an opportunity to learn something new.
+
+<h3 align="center">
+✨ Turning Data into Insights • Models into Solutions • Ideas into Impact ✨
+</h3>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Kanchann_910) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanchan anamika maheshwari) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Kanchan Anamika Maheshwari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanchananamikam910@gmail.com) 
