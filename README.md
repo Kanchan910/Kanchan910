@@ -1,6 +1,29 @@
 # 💫 About Me:
-<br><br>Hi, I'm **Kanchan Anamika Maheshwari**, a B.Tech Computer Science Engineering student passionate about turning data into meaningful insights and intelligent solutions.<br><br>📊 I am currently building my expertise in **Data Science, Machine Learning, and Deep Learning** through continuous learning and hands-on project development.<br><br>💻 I enjoy working with **Python, SQL, Data Analysis, Machine Learning, Deep Learning, NLP, and Flask**, and I actively create projects to strengthen my practical skills and problem-solving abilities.<br><br>🚀 My goal is to gain real-world experience through internships and contribute to impactful AI and data-driven solutions. I believe in continuous improvement, curiosity, and learning by building.<br><br>🌱 Currently focused on enhancing my technical skills, expanding my project portfolio, and exploring new opportunities in Data Science, Machine Learning, and Artificial Intelligence.<br><br>✨ *Learning, building, and growing one project at a time.*<br>
 
+
+Hi there! 👋 I'm **Kanchan Anamika Maheshwari**, a passionate **Computer Science Engineering (CSE) student** with a strong interest in **Data Science, Machine Learning, Deep Learning, and Artificial Intelligence**.
+
+🔹 I love transforming raw data into meaningful insights and building intelligent solutions that solve real-world problems.
+
+🔹 Currently exploring and working on:
+- 📊 Data Analysis & Visualization
+- 🤖 Machine Learning & Deep Learning
+- 🧠 Natural Language Processing (NLP)
+- 🐍 Python Programming
+- 🗄️ SQL & Database Management
+- 🌐 Flask & AI-powered Web Applications
+
+🔹 I enjoy learning by building projects and applying theoretical concepts to practical problems. Every project helps me strengthen my analytical thinking, problem-solving abilities, and technical expertise.
+
+🎯 My current goals:
+- Build impactful Data Science & AI projects
+- Gain hands-on industry experience through internships
+- Strengthen my skills in Machine Learning and Deep Learning
+- Contribute to open-source and collaborative projects
+
+📚 I believe that consistency, curiosity, and continuous learning are the keys to growth in technology.
+
+✨ *Turning data into insights and ideas into intelligent solutions.*
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Kanchann_910) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanchan anamika maheshwari) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Kanchan Anamika Maheshwari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanchananamikam910@gmail.com) 
