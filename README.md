@@ -1,5 +1,5 @@
-# 💫 About Me:
-## 💫 About Me
+## 💫 About Me:
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Kanchan+Anamika+Maheshwari+👋;Computer+Science+Engineering+Student+🎓;Aspiring+Data+Scientist+📊;Machine+Learning+%26+AI+Enthusiast+🤖;Building+Projects+%7C+Learning+New+Things+🚀;Turning+Data+Into+Meaningful+Insights+✨" />
